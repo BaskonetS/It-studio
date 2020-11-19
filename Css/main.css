@@ -981,6 +981,7 @@ h1,h2,h3,h4,h5,h6 {
     background-color:  rgba(80, 78, 194, 1);    
     transition: all 0.3s ease 0s;
     overflow: auto;   /* Служит для горизонтального скрола меню. */
+    z-index: 4;
   }
   .nav__wrap.active{    
     top: 50px;    
