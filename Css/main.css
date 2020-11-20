@@ -534,7 +534,7 @@ h1,h2,h3,h4,h5,h6 {
 /* .our-projects {} */
 
 .our-projects_bg {  
-  background: no-repeat center fixed url("/Img/our-projects-img.jpg");
+  background: no-repeat center fixed url("../Img/our-projects-img.jpg");
 }
 .our-projects_wrapper {  
   width: 60%;
